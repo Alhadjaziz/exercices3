@@ -107,3 +107,13 @@ header
     height: 25px;
     width: 250px;
 }
+footer
+{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #32a0c2;
+    text-align: center;
+    font-weight: bol;
+    font-size: 20px;
+}
