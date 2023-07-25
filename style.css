@@ -1,0 +1,109 @@
+body
+{
+    font-family:  sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+    direction: rtl;
+    
+}
+.container
+{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background: #353637;
+    color: #ffffff;
+    padding-top: 30%;
+    min-height: 50px;
+    border-bottom: #32a0c2 5px solid;
+}
+header a 
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 19px;
+}
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+header #brand
+{
+    float: right;
+}
+header #brand h1
+{
+    margin: 0;
+    color: #32a0c2;
+}
+header nav
+{
+    float: left;
+    margin-top: 10px;
+}
+header .current a
+{
+    color: #32a0c2;
+    font-weight: bold;
+}
+header a:hover
+{
+    color: #cccccc;
+    font-weight: bold;
+}
+#showcase
+{
+    min-height: 400px;
+    background: url("..apprendre-programation-informatique-0.jpg");
+    background-size: cover;
+
+}
+#newsletter form
+#boxes.box
+{
+    float: none;
+    text-align: center;
+    width: 100%;
+}
+header
+{
+    padding-bottom: 20px ;
+}
+
+#newsletter .buttom
+{
+    display: block;
+    width: 100%;
+
+}
+#newsletter 
+{
+    padding: 15px;
+    color: #ffffff;
+    background: #353637;
+}
+#newsletter h1
+{
+    float: right;
+}
+#newsletter form
+{
+    float: left;
+    margin-top: 15px;
+}
+#newsletter form input
+[type="email"]
+{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
